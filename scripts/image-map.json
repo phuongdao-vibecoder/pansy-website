@@ -1,0 +1,1583 @@
+[
+ {
+  "source": "_incoming/figma-images/about/bg--frame-227-2.jpg",
+  "name": "about/activity-distribution-truck",
+  "displayMaxPx": [
+   455,
+   320
+  ],
+  "figmaImageRef": "1c29595f6ccac1217bf9b515c40e8bf549e99bd5",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/bg--frame-227-3.jpg",
+  "name": "about/activity-marketing",
+  "displayMaxPx": [
+   455,
+   320
+  ],
+  "figmaImageRef": "ea1f50d2128cd1c77344b7d42aa19defacca7ae4",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/bg--frame-227-4.jpg",
+  "name": "about/activity-planting",
+  "displayMaxPx": [
+   455,
+   320
+  ],
+  "figmaImageRef": "3345d189161f342a1f8ececef801f102cc8c010b",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/bg--frame-227.jpg",
+  "name": "about/activity-packing",
+  "displayMaxPx": [
+   455,
+   320
+  ],
+  "figmaImageRef": "0ab4673b0483c6efdf9b7669b1766925a32c7b8e",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/bg--h2-ra-mat-sp-1-1.jpg",
+  "name": "about/timeline-angelica-launch",
+  "displayMaxPx": [
+   221,
+   221
+  ],
+  "figmaImageRef": "2599176042acf4d813db3de2bbd1bbe24aa03d36",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/bg--h2-ra-mat-sp-1-2.jpg",
+  "name": "about/timeline-pansy-box",
+  "displayMaxPx": [
+   221,
+   221
+  ],
+  "figmaImageRef": "82bc1c78aa0403f24156895d8aaa6dfb1812b6ea",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/bg--h2-ra-mat-sp-1.png",
+  "name": "about/timeline-globalgap-grasp",
+  "displayMaxPx": [
+   221,
+   221
+  ],
+  "figmaImageRef": "56bd6b7e4c97de54cdae13c7832485f490be01ad",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/bg--image-91.jpg",
+  "name": "about/vision-mission",
+  "displayMaxPx": [
+   2242,
+   883
+  ],
+  "figmaImageRef": "4102bce86fb9874ba7ee071ca621f23b5806a123",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/bg--rectangle-22-2.jpg",
+  "name": "about/timeline-sunhoney-launch",
+  "displayMaxPx": [
+   307,
+   215
+  ],
+  "figmaImageRef": "daeed78d5d67dc284870036dd96f2ea347dc7026",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/bg--rectangle-22-3.jpg",
+  "name": "about/timeline-gift-box-1",
+  "displayMaxPx": [
+   307,
+   215
+  ],
+  "figmaImageRef": "32fdd861527450842ac815701027e12aa5c6bfa3",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/bg--rectangle-22-4.jpg",
+  "name": "about/timeline-gift-box-2",
+  "displayMaxPx": [
+   307,
+   215
+  ],
+  "figmaImageRef": "1de1a6f0e32e1090be22e199326ceea3ad447d0b",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/bg--rectangle-22-5.png",
+  "name": "about/timeline-rebrand",
+  "displayMaxPx": [
+   307,
+   215
+  ],
+  "figmaImageRef": "14c0ec27d72bd4c3da319dd64e6a879e3a9ff21b",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/bg--rectangle-22-6.jpg",
+  "name": "about/timeline-retail-booth",
+  "displayMaxPx": [
+   307,
+   215
+  ],
+  "figmaImageRef": "75dc469082cd329ff36a86872db77203c72f6ff5",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/bg--rectangle-22.jpg",
+  "name": "about/timeline-expo-booth",
+  "displayMaxPx": [
+   307,
+   215
+  ],
+  "figmaImageRef": "f13ed21d97dc0d9c8b3b0741bbe8e2c0e5689cbb",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/frame-182--image-5-2.png",
+  "name": "shared/cert-globalgap-grasp",
+  "displayMaxPx": [
+   142,
+   142
+  ],
+  "figmaImageRef": "440fc87cbfcfb7585e0ad02eab99804f19810568",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/frame-182--image-5.png",
+  "name": "shared/cert-globalgap",
+  "displayMaxPx": [
+   221,
+   221
+  ],
+  "figmaImageRef": "43a7b2db2ee6e9574413b14ce797d524f1fbcffa",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/frame-182--rectangle-11.jpg",
+  "name": "about/region-farm-aerial",
+  "displayMaxPx": [
+   227,
+   244
+  ],
+  "figmaImageRef": "09c330f855b0829740faf18b1e3ef23edb361fe9",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/frame-182--rectangle-13.jpg",
+  "name": "about/region-melons-vine",
+  "displayMaxPx": [
+   227,
+   244
+  ],
+  "figmaImageRef": "743a0013ec785dd9a179230693eaf42ca907c3e0",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/frame-182--rectangle-15.png",
+  "name": "about/region-boxes",
+  "displayMaxPx": [
+   227,
+   244
+  ],
+  "figmaImageRef": "37528943ae4944e1fbe7e4af39097dd130f714f0",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/frame-182--rectangle-16.jpg",
+  "name": "about/region-farmer-greenhouse",
+  "displayMaxPx": [
+   1128,
+   611
+  ],
+  "figmaImageRef": "0e60e94a6c383fda239a66d3bd5d0a6cd748b1bb",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/frame-182--sunyellow-mascot-rgb-02-1.png",
+  "name": "shared/mascot-sunyellow",
+  "displayMaxPx": [
+   83,
+   120
+  ],
+  "figmaImageRef": "c8165beeab18a9b2ba055c3aa5f303ba34018a29",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/frame-212--rectangle-17.jpg",
+  "name": "about/experience-quality",
+  "displayMaxPx": [
+   204,
+   206
+  ],
+  "figmaImageRef": "595c9d9a21fbac651aea2c7458ddf55f653ed357",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/frame-212--rectangle-18.jpg",
+  "name": "about/experience-vanilla",
+  "displayMaxPx": [
+   204,
+   206
+  ],
+  "figmaImageRef": "20646447b5f17b4f6dd52bc79639ea06c13cd1bb",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/frame-212--rectangle-19.jpg",
+  "name": "about/experience-international",
+  "displayMaxPx": [
+   238,
+   251
+  ],
+  "figmaImageRef": "81414d3c5c20c597dff47ca0a16b77b9f1247bf0",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/frame-212--rectangle-20.jpg",
+  "name": "about/experience-gift",
+  "displayMaxPx": [
+   238,
+   251
+  ],
+  "figmaImageRef": "fa80ef33db377511ea5d883fb081c5705babdf02",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/gioi-thieu--rectangle-2.jpg",
+  "name": "about/story-farmland",
+  "displayMaxPx": [
+   512,
+   276
+  ],
+  "figmaImageRef": "fbac7e0b5f805ff490291698204fb27d5241791d",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/gioi-thieu--rectangle-3.jpg",
+  "name": "about/story-greenhouse",
+  "displayMaxPx": [
+   512,
+   276
+  ],
+  "figmaImageRef": "bfd57bb105e4c07cac1ef4f10cf8097dabd275a4",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/about/hero--image-391.jpg",
+  "name": "about/hero",
+  "displayMaxPx": [
+   1920,
+   900
+  ],
+  "figmaImageRef": "9dff593c0305817bcfe61cc374f3094f33673eaa",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/contact/container--vector-2.jpg",
+  "name": "contact/gallery-1",
+  "displayMaxPx": [
+   283,
+   207
+  ],
+  "figmaImageRef": "854e10968d1ea8db34c61bc12a3e756ae64fa268",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/contact/container--vector-3.jpg",
+  "name": "contact/gallery-2",
+  "displayMaxPx": [
+   283,
+   207
+  ],
+  "figmaImageRef": "24ab49580e730b09dfcb2aac74a7870043f5ae41",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/contact/container--vector-4.jpg",
+  "name": "contact/gallery-3",
+  "displayMaxPx": [
+   283,
+   191
+  ],
+  "figmaImageRef": "e9e423d20510c33383d414ada52e5633985adf14",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/contact/container--vector.png",
+  "name": null,
+  "displayMaxPx": [
+   283,
+   207
+  ],
+  "figmaImageRef": "ece298d0ec2c16f10310d45724b276a6035cb503",
+  "skipReason": "designer placeholder (blank/grey), no real image"
+ },
+ {
+  "source": "_incoming/figma-images/home/dia-chi-mua-dua-luoi--image-10.png",
+  "name": "shared/retailers/aeon-citimart",
+  "displayMaxPx": [
+   284,
+   35
+  ],
+  "figmaImageRef": "8ee33cb444416c330e0d0f86fe9a947b7d20bb79",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/dia-chi-mua-dua-luoi--image-11.png",
+  "name": "shared/retailers/coopmart",
+  "displayMaxPx": [
+   105,
+   59
+  ],
+  "figmaImageRef": "3e4ad6fc91a2f452617171a9d5316540c12d966a",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/dia-chi-mua-dua-luoi--image-12.png",
+  "name": "shared/retailers/kingfoodmart",
+  "displayMaxPx": [
+   207,
+   25
+  ],
+  "figmaImageRef": "fb640239cbb0ea9eb5b0cf7ee4d3aaae22310c1d",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/dia-chi-mua-dua-luoi--image-13.png",
+  "name": "shared/retailers/winmart",
+  "displayMaxPx": [
+   173,
+   43
+  ],
+  "figmaImageRef": "c6d9c6bcfd60f3bde10b7e2759188c3c00308c59",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/dia-chi-mua-dua-luoi--image-14.png",
+  "name": "shared/retailers/farmers-market",
+  "displayMaxPx": [
+   128,
+   45
+  ],
+  "figmaImageRef": "2b9ab92ba879ecbf46a18cd77312f93f2b21eb6f",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/dia-chi-mua-dua-luoi--image-15.png",
+  "name": "shared/retailers/go",
+  "displayMaxPx": [
+   99,
+   45
+  ],
+  "figmaImageRef": "56060a295a58366027a9446871127e0be952e864",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/dia-chi-mua-dua-luoi--image-16.png",
+  "name": "shared/retailers/tops-market",
+  "displayMaxPx": [
+   90,
+   67
+  ],
+  "figmaImageRef": "0a8d5c9d6199516a940e10f632e484c6cd1aed23",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/dia-chi-mua-dua-luoi--image-17.png",
+  "name": "shared/retailers/mm-mega-market",
+  "displayMaxPx": [
+   100,
+   56
+  ],
+  "figmaImageRef": "dff4da8b05329f95725e0224f723c62e8f7e6c3a",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/dia-chi-mua-dua-luoi--image-18.png",
+  "name": "shared/retailers/tony-fruit",
+  "displayMaxPx": [
+   83,
+   56
+  ],
+  "figmaImageRef": "090fd04b543e1323181cc4c749f7ad2725e15363",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/dia-chi-mua-dua-luoi--image-19.png",
+  "name": "shared/retailers/1989-fruits",
+  "displayMaxPx": [
+   78,
+   68
+  ],
+  "figmaImageRef": "f2debad41cf26b8de5d45c9d8f1ddaa85a1f6bbb",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/dia-chi-mua-dua-luoi--image-21.png",
+  "name": "shared/retailers/annam-gourmet",
+  "displayMaxPx": [
+   71,
+   71
+  ],
+  "figmaImageRef": "4650f8661ff245217f83426e44f7e95f98f4374f",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/dia-chi-mua-dua-luoi--image-22.png",
+  "name": "shared/retailers/finelife",
+  "displayMaxPx": [
+   68,
+   56
+  ],
+  "figmaImageRef": "f6ec88e9fc6ef80b78dd14ea9e044896bb8c1ebd",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/dia-chi-mua-dua-luoi--image-23.png",
+  "name": "shared/retailers/141-fresh-fruits",
+  "displayMaxPx": [
+   48,
+   48
+  ],
+  "figmaImageRef": "5f192e025ef067c1bd30fc9ee1c8f3db5dec5d5b",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/dia-chi-mua-dua-luoi--image-6.png",
+  "name": "shared/retailers/big-c",
+  "displayMaxPx": [
+   56,
+   56
+  ],
+  "figmaImageRef": "5620ebe3476c8cd405996386e7920b300d5913a1",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/dia-chi-mua-dua-luoi--image-7.png",
+  "name": "shared/retailers/lotte",
+  "displayMaxPx": [
+   86,
+   67
+  ],
+  "figmaImageRef": "69bc1fc5bb280fa372a30d378f131c4d94b588cb",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/dia-chi-mua-dua-luoi--image-8.png",
+  "name": "shared/retailers/coopxtra",
+  "displayMaxPx": [
+   152,
+   45
+  ],
+  "figmaImageRef": "236e813b348177b457c25efb86a088dada12adff",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/dia-chi-mua-dua-luoi--rectangle-23.jpg",
+  "name": "shared/where-to-buy-gift-box",
+  "displayMaxPx": [
+   553,
+   290
+  ],
+  "figmaImageRef": "6f801dd11ad9793426ceba85f2adf20899b1e684",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6851--4-3-2.png",
+  "name": "home/intro-product-mobile",
+  "displayMaxPx": [
+   1904,
+   1386
+  ],
+  "figmaImageRef": "87c8c5f885b2beca80efa84f7a57379f8ea53ac6",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6851--4-3.png",
+  "name": "home/intro-farm-mobile",
+  "displayMaxPx": [
+   1904,
+   1386
+  ],
+  "figmaImageRef": "3b7300bbfcfffc0a7ca271f3743f7ad9d29f30e4",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6903--group-5444-1.png",
+  "name": "shared/footer-partners/coopmart",
+  "displayMaxPx": [
+   73,
+   32
+  ],
+  "figmaImageRef": "6898df794f3700b8ba6ff43118c0e7c538b89cd4",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6903--group-5445-1.png",
+  "name": "shared/footer-partners/aeon-mall",
+  "displayMaxPx": [
+   98,
+   14
+  ],
+  "figmaImageRef": "86172bbceee1f937112825fc273e659aa4292f97",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6903--group-5447-1.png",
+  "name": "shared/footer-partners/the-city",
+  "displayMaxPx": [
+   73,
+   28
+  ],
+  "figmaImageRef": "2ea04e6afb0f8bdec648f897782886febe85f94d",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6903--group-5448-1.png",
+  "name": "shared/footer-partners/mm-mega-market",
+  "displayMaxPx": [
+   52,
+   32
+  ],
+  "figmaImageRef": "dd37f8000a43f0322908f7d8463c81db2149fb66",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6903--group-5449-1.png",
+  "name": "shared/footer-partners/big-c",
+  "displayMaxPx": [
+   26,
+   32
+  ],
+  "figmaImageRef": "b7f7bb278beeebe11824478f6079e39a6f2b6abb",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6903--group-5450-1.png",
+  "name": "shared/footer-partners/lotte-mart",
+  "displayMaxPx": [
+   119,
+   15
+  ],
+  "figmaImageRef": "e804b763b3f06a2d4e326c888727422e23b835d7",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6903--image-3.png",
+  "name": "shared/social-zalo",
+  "displayMaxPx": [
+   10,
+   4
+  ],
+  "figmaImageRef": "8dfd9a1b0f8f2a7d71d235fe6b6bb91e08ebace7",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6903--placeholder-image.jpg",
+  "name": "shared/recipe-smoothie",
+  "displayMaxPx": [
+   564,
+   399
+  ],
+  "figmaImageRef": "f02934187cefdbf11d576a64062e6a2e0f606e58",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6903--rectangle-2.png",
+  "name": "shared/pattern-dots",
+  "displayMaxPx": [
+   1989,
+   3011
+  ],
+  "figmaImageRef": "bab384afb21ff1e08c981a5ee29d2d98e700e178",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6903--rectangle-3.jpg",
+  "name": "shared/contact-farmers",
+  "displayMaxPx": [
+   684,
+   534
+  ],
+  "figmaImageRef": "2e07b4be924fc7036caf12715bef0f6c6d8ad76a",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6903--rectangle.png",
+  "name": "home/social-grid",
+  "displayMaxPx": [
+   1872,
+   987
+  ],
+  "figmaImageRef": "87be0999f230e2f8701877e5afb325de26dc07b5",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6952--image-41.jpg",
+  "name": "shared/masks/product-glow",
+  "displayMaxPx": [
+   500,
+   340
+  ],
+  "figmaImageRef": "364b6d06bf8ee859e8ceb99a931e0322e245515d",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6952--image-42.png",
+  "name": "shared/masks/product-shape",
+  "displayMaxPx": [
+   500,
+   340
+  ],
+  "figmaImageRef": "463002ef4ba6e57bd83a359957ed49376b2dc383",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6952--image-47.png",
+  "name": "shared/product-sunorange",
+  "displayMaxPx": [
+   340,
+   605
+  ],
+  "figmaImageRef": "9a0e7a2aadac1f2cf6a71b95579d3d8793200677",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6952--image-52-2.png",
+  "name": "shared/melon-slice-yellow",
+  "displayMaxPx": [
+   298,
+   199
+  ],
+  "figmaImageRef": "fb0e2a02854d9e7a8a88abafceaf82e73e2c2ea7",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6952--image-52.png",
+  "name": "shared/melon-half",
+  "displayMaxPx": [
+   335,
+   224
+  ],
+  "figmaImageRef": "8f1c552274f99ace5996a780a567de289ba0d6e3",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6952--image-72.png",
+  "name": "shared/product-sunyellow",
+  "displayMaxPx": [
+   261,
+   463
+  ],
+  "figmaImageRef": "8ecea0b33d7df6566dbb7315084134277cc70aaf",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6952--image-82.png",
+  "name": "shared/product-sunhoney",
+  "displayMaxPx": [
+   331,
+   413
+  ],
+  "figmaImageRef": "30007056a00c99a6dc575c91cbd3daf172a81ef5",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/frame-6952--image-87.png",
+  "name": "shared/melon-wedge",
+  "displayMaxPx": [
+   256,
+   163
+  ],
+  "figmaImageRef": "034bf5349584021f4af7580770c077ac6fc7cf23",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/gioi-thieu--4-3-2.png",
+  "name": "home/intro-product",
+  "displayMaxPx": [
+   1920,
+   941
+  ],
+  "figmaImageRef": "b91ea72d8889eb9c84845686b5a4b3d93571793b",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/gioi-thieu--4-3.jpg",
+  "name": "home/intro-farm-aerial",
+  "displayMaxPx": [
+   1920,
+   941
+  ],
+  "figmaImageRef": "c7f8e00b9bf0bd592dab98722233ecc4c418b363",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/gioi-thieu--frame-6831.jpg",
+  "name": "shared/feature-brix",
+  "displayMaxPx": [
+   200,
+   219
+  ],
+  "figmaImageRef": "b74171b1593e3a7d80c7c5d1bcfef9eec5f25411",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/gioi-thieu--frame-6832.jpg",
+  "name": "shared/feature-crunchy",
+  "displayMaxPx": [
+   200,
+   219
+  ],
+  "figmaImageRef": "d125fd9973f543dc7c194a95a957f20242ecd6f0",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/gioi-thieu--frame-6833.png",
+  "name": "shared/feature-netting",
+  "displayMaxPx": [
+   200,
+   219
+  ],
+  "figmaImageRef": "0c471d18d0ba5c068c0dd54e415fd282aaa89162",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/gioi-thieu--frame-6834.png",
+  "name": "shared/feature-vanilla",
+  "displayMaxPx": [
+   200,
+   219
+  ],
+  "figmaImageRef": "9a6d29a63c5d7556010bc9d07c7ad0a18e4af2c8",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/hero--rectangle-2.png",
+  "name": "home/hero-slice-1",
+  "displayMaxPx": [
+   185,
+   81
+  ],
+  "figmaImageRef": "cc3f548c2e3fa501e87052cbea63a5a398842cce",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/hero--rectangle-3.png",
+  "name": "home/hero-sunhoney",
+  "displayMaxPx": [
+   260,
+   325
+  ],
+  "figmaImageRef": "be74f6d0dd927ed504a514ec56f93ec87a3a272a",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/hero--rectangle-4.png",
+  "name": "home/hero-slice-2",
+  "displayMaxPx": [
+   365,
+   352
+  ],
+  "figmaImageRef": "9450da67155a65948e84cfcc08c6b45b2d24fceb",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/hero--rectangle-5.png",
+  "name": "home/hero-sunorange",
+  "displayMaxPx": [
+   237,
+   421
+  ],
+  "figmaImageRef": "2b12ed7f38a558320e83d02bbc4a28f564dcf318",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/hero--rectangle-6.png",
+  "name": "home/hero-slice-3",
+  "displayMaxPx": [
+   202,
+   116
+  ],
+  "figmaImageRef": "b60a46892b6664ad3a9c5c25e0691db25ec30557",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/hero--rectangle.png",
+  "name": "home/hero-sunyellow",
+  "displayMaxPx": [
+   215,
+   382
+  ],
+  "figmaImageRef": "d21baadfee4a30661d03c43b0b3e13f96ab49637",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/image--frame-133-2.jpg",
+  "name": "home/occasion-offering-mobile",
+  "displayMaxPx": [
+   343,
+   343
+  ],
+  "figmaImageRef": "96a4d23a753f42d858559f577b0c8bddb7e72962",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/image--frame-133.png",
+  "name": "shared/occasion-offering",
+  "displayMaxPx": [
+   360,
+   453
+  ],
+  "figmaImageRef": "cad25adbac69fbec04cd46cad621b4b5d76f2f1d",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/image--frame-134.png",
+  "name": "shared/occasion-family",
+  "displayMaxPx": [
+   359,
+   453
+  ],
+  "figmaImageRef": "d2b4779b9653a76f187dd6b03bc83c3d3b8dac16",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/image--frame-135.png",
+  "name": "shared/occasion-gift",
+  "displayMaxPx": [
+   358,
+   453
+  ],
+  "figmaImageRef": "2a7b23450df73e011960a9ef75d7422ce2579ad0",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/testimonials--image-360.jpg",
+  "name": null,
+  "displayMaxPx": [
+   353,
+   238
+  ],
+  "figmaImageRef": "6bd2fa8f1a72dd54e34bceadd411c0ad824329d5",
+  "skipReason": "designer placeholder (blank/grey), no real image"
+ },
+ {
+  "source": "_incoming/figma-images/home/testimonials--image-361-2.jpg",
+  "name": "shared/testimonial-2",
+  "displayMaxPx": [
+   353,
+   238
+  ],
+  "figmaImageRef": "f549dc3d3347b8f12d287ab5abd692cc5bfc7382",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/home/testimonials--image-361.jpg",
+  "name": "shared/testimonial-1",
+  "displayMaxPx": [
+   353,
+   238
+  ],
+  "figmaImageRef": "9b684fc1323bc1e6a5cacf30d1e4c5c677aa26fc",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/menu/frame-289--frame-289-2.png",
+  "name": "menu/banner-overlay",
+  "displayMaxPx": [
+   1920,
+   600
+  ],
+  "figmaImageRef": "fe77e00d79ace9d92ab7a38a696c4e16fd6ab4ca",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/menu/frame-289--frame-289.jpg",
+  "name": "menu/banner",
+  "displayMaxPx": [
+   1920,
+   600
+  ],
+  "figmaImageRef": "ae4c49f071a8bfa075426588d9008a313de6419e",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/menu/frame-6781--image-2.png",
+  "name": "shared/recipe-granita",
+  "displayMaxPx": [
+   648,
+   500
+  ],
+  "figmaImageRef": "81e1ec2388e88cf3b0844c7e445140a7cef6e5d7",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/menu/frame-6781--image-3.png",
+  "name": "menu/recipe-melon-platter",
+  "displayMaxPx": [
+   360,
+   245
+  ],
+  "figmaImageRef": "53c6a995a4f6feb10fd5ab86cd7160bb3fca3a8a",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/menu/frame-6781--image-4.png",
+  "name": "menu/recipe-fruit-salad",
+  "displayMaxPx": [
+   360,
+   245
+  ],
+  "figmaImageRef": "faf28c8b2ae31551040202c2f7984ed6c956dff4",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/menu/frame-6781--image-5.png",
+  "name": "menu/recipe-melon-yogurt",
+  "displayMaxPx": [
+   360,
+   245
+  ],
+  "figmaImageRef": "8b83b2d64aa92344833c1539bdad0f22da80828b",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/menu/frame-6781--image-6.png",
+  "name": "menu/recipe-fruit-bowl",
+  "displayMaxPx": [
+   360,
+   245
+  ],
+  "figmaImageRef": "34b227da3ca5e7cfd0697d8fd65eeb8e59e0f112",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/menu/frame-6781--image-7.png",
+  "name": "menu/video-farmer",
+  "displayMaxPx": [
+   360,
+   640
+  ],
+  "figmaImageRef": "e26a15c4b470f3baa791513dddb617f3aeaff2e4",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/menu/frame-6781--image-8.png",
+  "name": "menu/recipe-melon-juice",
+  "displayMaxPx": [
+   360,
+   240
+  ],
+  "figmaImageRef": "a47d974ac566e557208613d658df58677ef60410",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/menu/frame-6781--image-9.png",
+  "name": "menu/recipe-melon-cake",
+  "displayMaxPx": [
+   360,
+   240
+  ],
+  "figmaImageRef": "d4f433683837d70fcc4c93fe70a417c761438180",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/menu/frame-6781--image.png",
+  "name": "menu/recipe-featured",
+  "displayMaxPx": [
+   648,
+   432
+  ],
+  "figmaImageRef": "6e036edbec6c4eaebaa019b5e526e37769fa23ee",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/menu/thuc-don-mobile-1--frame-289.png",
+  "name": "menu/banner-mobile",
+  "displayMaxPx": [
+   375,
+   532
+  ],
+  "figmaImageRef": "f1220cef48ca5b32e9835c6a45daba0a1d46382e",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/menu/thuc-don-mobile-1--placeholder-image-2.png",
+  "name": "menu/recipe-mobile-1",
+  "displayMaxPx": [
+   335,
+   221
+  ],
+  "figmaImageRef": "5dadd80a4625646a59b90f359350e38f34f619a7",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/menu/thuc-don-mobile-1--placeholder-image.png",
+  "name": null,
+  "displayMaxPx": [
+   335,
+   221
+  ],
+  "figmaImageRef": "d47f9f5af24fd7129274afad903571dd3819a330",
+  "skipReason": "designer placeholder (blank/grey), no real image"
+ },
+ {
+  "source": "_incoming/figma-images/menu/video-d--frame-6786.jpg",
+  "name": "menu/video-1",
+  "displayMaxPx": [
+   360,
+   640
+  ],
+  "figmaImageRef": "470b745ccabeab3e1dcb2d9ba083bd8085422bed",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/menu/video-d--frame-6787.png",
+  "name": "menu/video-2",
+  "displayMaxPx": [
+   360,
+   640
+  ],
+  "figmaImageRef": "15b8c0d6cec375b48029cbf723da59232564f3df",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/products/frame-6706--image-23.png",
+  "name": "shared/retailers/141-fresh-fruits-alt",
+  "displayMaxPx": [
+   67,
+   67
+  ],
+  "figmaImageRef": "115e33866abea4f1f21a2982c0f2e076bb3a6a71",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/products/frame-6707--frame-6707.jpg",
+  "name": "products/banner",
+  "displayMaxPx": [
+   1920,
+   600
+  ],
+  "figmaImageRef": "9d19a85bfd50a0ada1c587724ce983db2a9fdb3b",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/products/frame-6961--frame-291-2.jpg",
+  "name": "products/gift-pair",
+  "displayMaxPx": [
+   188,
+   152
+  ],
+  "figmaImageRef": "46c47d42f16cae903772673cf40c6e6f7ce796ba",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/products/frame-6961--frame-291.jpg",
+  "name": "products/gift-box-four",
+  "displayMaxPx": [
+   188,
+   152
+  ],
+  "figmaImageRef": "b18d8ddbe516c85fcfabab13a21645a5520f9fed",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/products/frame-6961--frame-292-2.jpg",
+  "name": "products/gift-in-hand",
+  "displayMaxPx": [
+   188,
+   152
+  ],
+  "figmaImageRef": "1fd930888e9f637d61a5a2e1dda4dca2fe1f8be5",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/products/frame-6961--frame-292.jpg",
+  "name": "products/gift-box-cut",
+  "displayMaxPx": [
+   188,
+   152
+  ],
+  "figmaImageRef": "ccf469ffe22b0a44801fdd460beaf34c4df46d41",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/recipe/frame-289--frame-289.png",
+  "name": "recipe/banner",
+  "displayMaxPx": [
+   1920,
+   600
+  ],
+  "figmaImageRef": "6e0b859d7606f59548f1d53a2539ecb3e6260aab",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/recipe/frame-6805--frame-6343-2.jpg",
+  "name": "recipe/step-cut",
+  "displayMaxPx": [
+   744,
+   379
+  ],
+  "figmaImageRef": "52bdb128a330219916a417e981629c30970cc1d3",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/recipe/frame-6805--frame-6343.jpg",
+  "name": "recipe/step-drink",
+  "displayMaxPx": [
+   744,
+   379
+  ],
+  "figmaImageRef": "afa08f858c66e19e6f6a1a9545593a04bb6ed45b",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/recipe/frame-6805--frame-6792.jpg",
+  "name": "recipe/step-halve",
+  "displayMaxPx": [
+   744,
+   379
+  ],
+  "figmaImageRef": "226cb09078d49ab20c31648acaea57c1e88d0ed0",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/recipe/frame-6805--frame-6793.png",
+  "name": "recipe/step-cubes",
+  "displayMaxPx": [
+   744,
+   379
+  ],
+  "figmaImageRef": "1e7fa9b6a6c02583202d80e3c8c7e1b753e4b50a",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/recipe/frame-6805--frame-6794.jpg",
+  "name": "recipe/step-yogurt",
+  "displayMaxPx": [
+   744,
+   379
+  ],
+  "figmaImageRef": "241f74b1a4f8b1b35d83f09c96c2332ed93c3524",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/recipe/tin-tuc--rectangle.png",
+  "name": "recipe/related-salad",
+  "displayMaxPx": [
+   552,
+   300
+  ],
+  "figmaImageRef": "fdc1a802d2718702850bc4f1b424c0abee7c1ac7",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/sunhoney/dua-2-1--dua-2-1-2.png",
+  "name": "sunhoney/hero-product",
+  "displayMaxPx": [
+   600,
+   600
+  ],
+  "figmaImageRef": "97a3c103c6f77033080f7bcd63cd6da265b1209b",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/sunhoney/dua-2-1--dua-2-1.png",
+  "name": "sunhoney/hero-product-alt",
+  "displayMaxPx": [
+   600,
+   600
+  ],
+  "figmaImageRef": "f515cab54f69fbf17eb667eec60c61e6be48d816",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/sunhoney/frame-6717--sunyellow-2.png",
+  "name": "sunhoney/hero-mobile",
+  "displayMaxPx": [
+   322,
+   322
+  ],
+  "figmaImageRef": "4e30435cbf4a5f16e31a06ca6b5fa7db525b6221",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/sunorange/frame-6717--dua-2-1.png",
+  "name": "sunorange/hero-product",
+  "displayMaxPx": [
+   600,
+   600
+  ],
+  "figmaImageRef": "c12bd28a34cde461bc94e604ee17453e98b75aff",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/sunorange/frame-6717--rectangle.png",
+  "name": "shared/pattern-dots-2",
+  "displayMaxPx": [
+   1921,
+   2921
+  ],
+  "figmaImageRef": "473930bdc4c920eb5b2e52f4fe14401b50227849",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/sunorange/frame-6721--untitled-1.png",
+  "name": "sunorange/hero-mobile",
+  "displayMaxPx": [
+   336,
+   336
+  ],
+  "figmaImageRef": "fd9e7b6831221883e4dbd61343f255036c4e77aa",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/sunorange/frame-6737--rectangle.png",
+  "name": "shared/masks/soft-shadow",
+  "displayMaxPx": [
+   400,
+   267
+  ],
+  "figmaImageRef": "7572117d833e4ba5daf80b69fea9fb17cb38af12",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/sunorange/frame-6945--frame-133.jpg",
+  "name": "shared/instore-sampling",
+  "displayMaxPx": [
+   360,
+   453
+  ],
+  "figmaImageRef": "56d0f25597997ce306fc7bb5912a720b072b3e95",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/sunorange/frame-6945--frame-134.jpg",
+  "name": "shared/instore-display",
+  "displayMaxPx": [
+   359,
+   453
+  ],
+  "figmaImageRef": "b17c456e2977991081520082783b9c15b848d86f",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/sunorange/frame-6945--frame-135.jpg",
+  "name": "shared/instore-tradeshow",
+  "displayMaxPx": [
+   358,
+   453
+  ],
+  "figmaImageRef": "edbbb769de118a0d7bf62478ca321544eac8efa4",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/sunorange/frame-6945--image.png",
+  "name": "shared/product-label",
+  "displayMaxPx": [
+   552,
+   387
+  ],
+  "figmaImageRef": "6c5aa1efae58b916c1310c7dbc765db483ca2d67",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/sunorange/frame-6945--sunyellow-1-2.png",
+  "name": "shared/crosssell-sunhoney",
+  "displayMaxPx": [
+   496,
+   496
+  ],
+  "figmaImageRef": "cc5abbc40a9d1b024197afccf180fac10c7b6970",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/sunorange/frame-6945--sunyellow-1.png",
+  "name": "shared/crosssell-sunyellow",
+  "displayMaxPx": [
+   488,
+   488
+  ],
+  "figmaImageRef": "41f371efe24f46d3b23ad72aef3c9400a3ceac75",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/sunorange/frame-6949--frame-133.jpg",
+  "name": "shared/instore-sampling-mobile",
+  "displayMaxPx": [
+   343,
+   343
+  ],
+  "figmaImageRef": "4f0410dfb5044c434817d305a559e3be73cb1d4d",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/sunyellow/dua-2-1--dua-2-1.png",
+  "name": "sunyellow/hero-product",
+  "displayMaxPx": [
+   600,
+   600
+  ],
+  "figmaImageRef": "1b086ab6a59a6b4b9059cb6759dcd29434c0d052",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/sunyellow/frame-6717--sunyellow-1.png",
+  "name": "sunyellow/hero-mobile",
+  "displayMaxPx": [
+   397,
+   379
+  ],
+  "figmaImageRef": "2ad28c6c4c4fc15d00145d5e70a5339907f75922",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-images/sunyellow/frame-6945--untitled-1.png",
+  "name": "shared/crosssell-sunorange",
+  "displayMaxPx": [
+   496,
+   496
+  ],
+  "figmaImageRef": "daf2b473e32eeb322fa593a14742577b790f4b32",
+  "skipReason": null
+ },
+ {
+  "source": "_incoming/figma-composites/composite/home-hero-melons.png",
+  "name": "home/hero-melons",
+  "displayMaxPx": [
+   728,
+   450
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Figma frame rendered at 2x (composite of several layers)"
+ },
+ {
+  "source": "_incoming/figma-composites/composite/product-card-sunorange.png",
+  "name": "shared/product-card-sunorange",
+  "displayMaxPx": [
+   304,
+   249
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Figma frame rendered at 2x (composite of several layers)"
+ },
+ {
+  "source": "_incoming/figma-composites/composite/product-card-sunyellow.png",
+  "name": "shared/product-card-sunyellow",
+  "displayMaxPx": [
+   310,
+   245
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Figma frame rendered at 2x (composite of several layers)"
+ },
+ {
+  "source": "_incoming/figma-composites/composite/product-card-sunhoney.png",
+  "name": "shared/product-card-sunhoney",
+  "displayMaxPx": [
+   310,
+   245
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Figma frame rendered at 2x (composite of several layers)"
+ },
+ {
+  "source": "_incoming/figma-composites/generated/products/row-sunorange.png",
+  "name": "generated/products/row-sunorange",
+  "displayMaxPx": [
+   525,
+   626
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Rendered from Figma geometry (node I2417:54326;2384:52738, pad 30)"
+ },
+ {
+  "source": "_incoming/figma-composites/generated/products/row-sunyellow.png",
+  "name": "generated/products/row-sunyellow",
+  "displayMaxPx": [
+   525,
+   626
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Rendered from Figma geometry (node I2417:54328;2384:53200, pad 30)"
+ },
+ {
+  "source": "_incoming/figma-composites/generated/products/row-sunhoney.png",
+  "name": "generated/products/row-sunhoney",
+  "displayMaxPx": [
+   525,
+   626
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Rendered from Figma geometry (node I2417:54398;2384:52955, pad 30)"
+ },
+ {
+  "source": "_incoming/figma-composites/generated/products/compare-sunorange.png",
+  "name": "generated/products/compare-sunorange",
+  "displayMaxPx": [
+   307,
+   266
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Rendered from Figma geometry (node I2417:54873;2384:53810, pad 10)"
+ },
+ {
+  "source": "_incoming/figma-composites/generated/products/compare-sunyellow.png",
+  "name": "generated/products/compare-sunyellow",
+  "displayMaxPx": [
+   311,
+   266
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Rendered from Figma geometry (node I2417:54874;2384:53848, pad 10)"
+ },
+ {
+  "source": "_incoming/figma-composites/generated/products/compare-sunhoney.png",
+  "name": "generated/products/compare-sunhoney",
+  "displayMaxPx": [
+   313,
+   266
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Rendered from Figma geometry (node I2417:54875;2384:53886, pad 10)"
+ },
+ {
+  "source": "_incoming/figma-composites/generated/products/differences.png",
+  "name": "generated/products/differences",
+  "displayMaxPx": [
+   1121,
+   996
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Rendered from Figma geometry (node 2417:54501, pad 0)"
+ },
+ {
+  "source": "_incoming/figma-composites/generated/products/differences-mobile.png",
+  "name": "generated/products/differences-mobile",
+  "displayMaxPx": [
+   343,
+   364
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Rendered from Figma geometry (node 406:32603, pad 0)"
+ },
+ {
+  "source": "_incoming/figma-composites/generated/detail/sunorange-feature.png",
+  "name": "generated/detail/sunorange-feature",
+  "displayMaxPx": [
+   415,
+   540
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Rendered from Figma geometry (node 406:33947, pad 20)"
+ },
+ {
+  "source": "_incoming/figma-composites/generated/detail/sunyellow-feature.png",
+  "name": "generated/detail/sunyellow-feature",
+  "displayMaxPx": [
+   443,
+   540
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Rendered from Figma geometry (node 2915:41088, pad 20)"
+ },
+ {
+  "source": "_incoming/figma-composites/generated/detail/sunhoney-feature.png",
+  "name": "generated/detail/sunhoney-feature",
+  "displayMaxPx": [
+   443,
+   540
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Rendered from Figma geometry (node 2915:41331, pad 20)"
+ },
+ {
+  "source": "_incoming/figma-composites/generated/about/map-desktop.png",
+  "name": "generated/about/map-desktop",
+  "displayMaxPx": [
+   1087,
+   580
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Rendered from Figma geometry (node 2774:44029, pad 4)"
+ },
+ {
+  "source": "_incoming/figma-composites/generated/about/map-mobile.png",
+  "name": "generated/about/map-mobile",
+  "displayMaxPx": [
+   319,
+   190
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Rendered from Figma geometry (node 406:24534, pad 4)"
+ },
+ {
+  "source": "_incoming/figma-composites/generated/about/vision-desktop.png",
+  "name": "generated/about/vision-desktop",
+  "displayMaxPx": [
+   1920,
+   859
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Rendered from Figma geometry (node 2673:29346, pad 0)"
+ },
+ {
+  "source": "_incoming/figma-composites/generated/about/vision-mobile.png",
+  "name": "generated/about/vision-mobile",
+  "displayMaxPx": [
+   375,
+   224
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Rendered from Figma geometry (node 406:24742, pad 0)"
+ },
+ {
+  "source": "_incoming/figma-composites/generated/contact/collage-desktop.png",
+  "name": "generated/contact/collage-desktop",
+  "displayMaxPx": [
+   657,
+   544
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Rendered from Figma geometry (node 406:17987, pad 50)"
+ },
+ {
+  "source": "_incoming/figma-composites/generated/contact/collage-mobile.png",
+  "name": "generated/contact/collage-mobile",
+  "displayMaxPx": [
+   403,
+   364
+  ],
+  "figmaImageRef": null,
+  "skipReason": null,
+  "note": "Rendered from Figma geometry (node 406:17807, pad 30)"
+ }
+]

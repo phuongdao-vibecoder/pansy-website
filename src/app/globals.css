@@ -1,0 +1,266 @@
+@import "tailwindcss";
+
+/*
+ * Pansy design tokens
+ * Source: Figma "Pansy (Final)" variables, text styles and effect styles.
+ * See DESIGN_SPEC.md for where each value comes from.
+ * Tailwind's default palette, type scale and radii are cleared on purpose
+ * so that only design-system values are available.
+ */
+
+@theme {
+  /* ---------- Breakpoints ---------- */
+  /* Mobile frame 375 · tablet = derived (no design) · desktop frame 1440 */
+  --breakpoint-sm: 40rem;   /* 640 */
+  --breakpoint-md: 48rem;   /* 768  - tablet layout starts */
+  --breakpoint-lg: 64rem;   /* 1024 - desktop header replaces mobile menu */
+  --breakpoint-xl: 75rem;   /* 1200 - full desktop layout */
+
+  /* ---------- Colors (Figma "Primitives" variables) ---------- */
+  --color-*: initial;
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-transparent: transparent;
+  --color-current: currentColor;
+
+  --color-sunorange-950: #6d3411;
+  --color-sunorange-900: #924517;
+  --color-sunorange-800: #b6561d;
+  --color-sunorange-700: #c25c1e;
+  --color-sunorange-600: #db6822;
+  --color-sunorange-500: #f37326;
+  --color-sunorange-400: #fbd4bc;
+  --color-sunorange-300: #fdeade;
+  --color-sunorange-200: #fef1e9;
+  --color-sunorange-bg: #fff4e0;
+  --color-sunorange-accent: #fee8c2;
+
+  --color-sunhoney-950: #6c2a10;
+  --color-sunhoney-900: #903816;
+  --color-sunhoney-800: #b4461b;
+  --color-sunhoney-700: #c04a1d;
+  --color-sunhoney-600: #d85420;
+  --color-sunhoney-500: #f05d24;
+  --color-sunhoney-400: #facdbb;
+  --color-sunhoney-300: #fde7de;
+  --color-sunhoney-200: #feefe9;
+
+  /* Note: Figma's "SunYellow" scale holds red-orange values */
+  --color-sunyellow-950: #6b2010;
+  --color-sunyellow-900: #8e2b15;
+  --color-sunyellow-800: #b2361a;
+  --color-sunyellow-700: #be3a1c;
+  --color-sunyellow-600: #d54120;
+  --color-sunyellow-500: #ed4823;
+  --color-sunyellow-400: #f9c6bb;
+  --color-sunyellow-300: #fce4de;
+  --color-sunyellow-200: #fdede9;
+
+  --color-green-950: #004d23;
+  --color-green-900: #00672f;
+  --color-green-800: #00672f;
+  --color-green-700: #00803b;
+  --color-green-600: #009a46;
+  --color-green-500: #00ab4e;
+  --color-green-400: #c7edc5;
+  --color-green-300: #d9f2e4;
+  --color-green-200: #e6f7ed;
+
+  --color-yellow-950: #706a10;
+  --color-yellow-900: #958e15;
+  --color-yellow-800: #bab11a;
+  --color-yellow-700: #c6bd1c;
+  --color-yellow-600: #dfd420;
+  --color-yellow-500: #f8ec23;
+  --color-yellow-400: #fdf9bb;
+  --color-yellow-300: #fefcde;
+  --color-yellow-200: #fefde9;
+
+  /* Figma order kept as-is (900 is lighter than 800 in the source) */
+  --color-grey-950: #111111;
+  --color-grey-900: #5e5e5e;
+  --color-grey-800: #303030;
+  --color-grey-700: #474747;
+  --color-grey-600: #777777;
+  --color-grey-500: #919191;
+  --color-grey-400: #dadada;
+  --color-grey-300: #eeeeee;
+  --color-grey-200: #f7f7f7;
+
+  /* Canvas colors with no Figma variable (DESIGN_SPEC §1.2) */
+  --color-cream: #ffeed7;       /* page background */
+  --color-honey-card: #fbb040;  /* contact card */
+
+  /* Semantic aliases */
+  --color-brand: var(--color-sunorange-500);
+  --color-ink: var(--color-green-950);      /* default text */
+  --color-eyebrow: var(--color-green-700);  /* section eyebrows */
+
+  /* ---------- Fonts ---------- */
+  --font-*: initial;
+  --font-sans: var(--font-nunito), ui-sans-serif, system-ui, sans-serif;
+  /* Demo (2026-11-11): display headings use Nunito ExtraBold to review the UX/UI.
+     To restore October Compressed H+L Heavy: use the line below and add october.variable
+     back to <html> in src/app/layout.tsx.
+     --font-display: var(--font-october), "Arial Narrow", sans-serif-condensed, sans-serif; */
+  --font-display: var(--font-nunito), ui-sans-serif, system-ui, sans-serif;
+
+  /* ---------- Type scale (Figma text styles) ---------- */
+  --text-*: initial;
+  --text-display: 4.5rem;           /* OT/Display 72 */
+  --text-display--line-height: 5.625rem;
+  --text-h1: 3.5rem;                /* 56 */
+  --text-h1--line-height: 4.5rem;
+  --text-h2: 3.0625rem;             /* 49 */
+  --text-h2--line-height: 3.675rem;
+  --text-ot-subheading: 3rem;       /* OT/Subheading 48 */
+  --text-ot-subheading--line-height: 3.5rem;
+  --text-ot-subheading--letter-spacing: 0.02em;
+  --text-h3: 2.4375rem;             /* 39 */
+  --text-h3--line-height: 2.925rem;
+  --text-ot-title: 2rem;            /* OT/Title 32 */
+  --text-ot-title--line-height: 2.6rem;
+  --text-ot-title--letter-spacing: 0.02em;
+  --text-h4: 1.9375rem;             /* 31 */
+  --text-h4--line-height: 2.325rem;
+  --text-ot-small: 1.75rem;         /* OT/Subheading 28 */
+  --text-ot-small--line-height: 2.275rem;
+  --text-ot-small--letter-spacing: 0.02em;
+  --text-h5: 1.5625rem;             /* 25 */
+  --text-h5--line-height: 2rem;
+  --text-body-lg: 1.25rem;          /* 20 */
+  --text-body-lg--line-height: 1.5rem;
+  --text-body: 1rem;                /* 16 */
+  --text-body--line-height: 1.3625rem;
+  --text-body--letter-spacing: -0.005em;
+  --text-subtitle: 0.875rem;        /* 14 */
+  --text-subtitle--line-height: 1.125rem;
+  --text-caption: 0.75rem;          /* 12 */
+  --text-caption--line-height: 0.9rem;
+  --text-footnote: 0.625rem;        /* 10 */
+  --text-footnote--line-height: 0.85rem;
+
+  /* ---------- Radius (Figma "Sizing Token") ---------- */
+  --radius-*: initial;
+  --radius-xxs: 4px;
+  --radius-xs: 8px;
+  --radius-sm: 16px;
+  --radius-md: 20px;
+  --radius-lg: 24px;
+  --radius-xl: 32px;
+  --radius-full: 1000px;
+
+  /* ---------- Hard offset shadows (Figma effect styles S / Md / Lg) ---------- */
+  --shadow-*: initial;
+  --shadow-hard-sm: 6px 6px 0 0 rgb(17 17 17 / 0.5);
+  --shadow-hard-md: 12px 12px 0 0 rgb(17 17 17 / 0.5);
+  --shadow-hard-lg: 20px 20px 0 0 rgb(17 17 17 / 0.5);
+
+  /* ---------- Layout ---------- */
+  --container-site: 70.5rem;        /* 1128 content width */
+  --container-narrow: 46.5rem;      /* 744 reading column */
+
+  /* ---------- Motion ---------- */
+  --animate-marquee: marquee 40s linear infinite;
+
+  @keyframes marquee {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+}
+
+/* Page gutter and section spacing.
+ * Mobile values come from the 375 frames, desktop values from the 1440 frames;
+ * the tablet values are derived (no tablet design). */
+:root {
+  --gutter: 16px;
+  --section-gap: 120px;
+}
+@media (min-width: 48rem) {
+  :root {
+    --gutter: 32px;
+    --section-gap: 160px;
+  }
+}
+@media (min-width: 75rem) {
+  :root {
+    --section-gap: 200px;
+  }
+}
+
+/* 1128 px container with responsive side gutters */
+@utility container-site {
+  width: 100%;
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+  max-width: calc(var(--container-site) + 2 * var(--gutter));
+  /* Tablet (768–1023, not designed): keep the 768 layout and centre it instead of stretching
+     the mobile layout to ~940 px (Phase 10 decision). */
+  @media (width >= 48rem) and (width < 64rem) {
+    max-width: calc(44rem + 2 * var(--gutter));
+  }
+}
+
+@utility container-narrow {
+  width: 100%;
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+  max-width: calc(var(--container-narrow) + 2 * var(--gutter));
+}
+
+@utility section-gap {
+  margin-block-start: var(--section-gap);
+}
+
+/* About, Thực đơn and Công thức use the lighter #FFF4E0 from their Figma frames
+   (decision 2026-11-10); Home, Sản phẩm and product pages keep the cream #FFEED7. */
+body:has([data-page-bg="light"]) {
+  background-color: var(--color-sunorange-bg);
+}
+
+/* When a page renders its own <MelonSection>, the footer continues it seamlessly. */
+body:has([data-melon-continues]) [data-site-footer] {
+  margin-top: 0;
+}
+body:has([data-melon-continues]) [data-site-footer] [data-melon-top] {
+  display: none;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+  /* Demo: Nunito display headings in ExtraBold (800), Figma's heading weight. Remove with the font switch. */
+  .font-display {
+    font-weight: 800;
+  }
+  body {
+    background-color: var(--color-cream);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-weight: 600; /* Figma "Regular" styles are Nunito SemiBold */
+  }
+  /* Scroll reveal: Fade In + Slide Up (Figma annotation 2893:36165).
+   * Only hidden when JS is running (html.js), so content never stays
+   * invisible if scripts fail. */
+  .js [data-reveal] {
+    opacity: 0;
+    transform: translateY(32px);
+    transition:
+      opacity 600ms ease-out,
+      transform 600ms ease-out;
+  }
+  .js [data-reveal="visible"] {
+    opacity: 1;
+    transform: none;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .js [data-reveal] {
+      opacity: 1;
+      transform: none;
+      transition: none;
+    }
+    /* The marquee stops via motion-reduce:animate-none in Marquee.tsx (a base-layer rule
+       here would lose to the animate-marquee utility). */
+  }
+}

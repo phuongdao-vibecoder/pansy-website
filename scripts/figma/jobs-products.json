@@ -1,0 +1,19 @@
+[
+ {"id":"2417:54286","name":"products/banner-flower-large","kind":"svg"},
+ {"id":"2417:54287","name":"products/banner-flower-small","kind":"svg"},
+ {"id":"2417:54297","name":"brand/logo-white-small","kind":"svg"},
+ {"id":"I2417:54326;2384:52738","name":"products/row-sunorange","kind":"raster","pad":30},
+ {"id":"I2417:54328;2384:53200","name":"products/row-sunyellow","kind":"raster","pad":30},
+ {"id":"I2417:54398;2384:52955","name":"products/row-sunhoney","kind":"raster","pad":30},
+ {"id":"I2417:54873;2384:53810","name":"products/compare-sunorange","kind":"raster","pad":10},
+ {"id":"I2417:54874;2384:53848","name":"products/compare-sunyellow","kind":"raster","pad":10},
+ {"id":"I2417:54875;2384:53886","name":"products/compare-sunhoney","kind":"raster","pad":10},
+ {"id":"I2774:51687;2774:46777","name":"products/process-icon-1","kind":"svg"},
+ {"id":"I2774:51687;2774:46916","name":"products/process-icon-2","kind":"svg"},
+ {"id":"I2774:51687;2774:46925","name":"products/process-icon-3","kind":"svg"},
+ {"id":"I2774:51687;2774:46780","name":"products/process-1","kind":"svg"},
+ {"id":"I2774:51687;2774:46823","name":"products/process-2","kind":"svg"},
+ {"id":"I2774:51687;2774:46951","name":"products/process-3","kind":"svg"},
+ {"id":"2417:54501","name":"products/differences","kind":"raster","pad":0},
+ {"id":"2417:54410","name":"products/melon-bg","kind":"svg"}
+]

@@ -1,0 +1,53 @@
+[
+ {
+  "id": "406:17959",
+  "name": "contact/bg-shape",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:17987",
+  "name": "contact/collage-desktop",
+  "kind": "raster",
+  "pad": 50,
+  "opaque": true
+ },
+ {
+  "id": "406:17807",
+  "name": "contact/collage-mobile",
+  "kind": "raster",
+  "pad": 30,
+  "opaque": true
+ },
+ {
+  "id": "406:17999",
+  "name": "contact/icon-mail",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:18005",
+  "name": "contact/icon-phone",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:18009",
+  "name": "contact/icon-clock",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:18048",
+  "name": "contact/faq-illustration",
+  "kind": "svg",
+  "opaque": true,
+  "pad": 2
+ },
+ {
+  "id": "I2174:7467;2174:6927",
+  "name": "contact/faq-arrow",
+  "kind": "svg",
+  "opaque": true
+ }
+]

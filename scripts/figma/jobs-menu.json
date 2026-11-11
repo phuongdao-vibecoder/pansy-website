@@ -1,0 +1,98 @@
+[
+ {
+  "id": "I2174:5125;2174:5013",
+  "name": "menu/tiktok",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "I2174:5125;2174:5016",
+  "name": "menu/play",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:38242",
+  "name": "menu/page-next",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:38238",
+  "name": "menu/page-more",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:38431",
+  "name": "recipe/play",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:38437",
+  "name": "recipe/icon-ingredients",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:38445",
+  "name": "recipe/icon-time",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:38452",
+  "name": "recipe/icon-servings",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:38494",
+  "name": "recipe/arrow-back",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:38498",
+  "name": "recipe/reaction-1",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:38513",
+  "name": "recipe/reaction-2",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:38518",
+  "name": "recipe/reaction-3",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:38415",
+  "name": "recipe/flower-1",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:38584",
+  "name": "recipe/flower-2",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:38585",
+  "name": "recipe/flower-3",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "406:38586",
+  "name": "recipe/flower-4",
+  "kind": "svg",
+  "opaque": true
+ }
+]

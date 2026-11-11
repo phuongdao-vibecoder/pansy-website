@@ -1,0 +1,36 @@
+[
+ {
+  "id": "406:33947",
+  "name": "detail/sunorange-feature",
+  "kind": "raster",
+  "pad": 20
+ },
+ {
+  "id": "I2568:9765;2568:8991",
+  "name": "detail/sunorange-spec-mascot",
+  "kind": "svg",
+  "pad": 4
+ },
+ {
+  "id": "2915:41088",
+  "name": "detail/sunyellow-feature",
+  "kind": "raster",
+  "pad": 20
+ },
+ {
+  "id": "2915:41331",
+  "name": "detail/sunhoney-feature",
+  "kind": "raster",
+  "pad": 20
+ },
+ {
+  "id": "I2806:51343;2417:56908",
+  "name": "detail/crosssell-blob",
+  "kind": "svg"
+ },
+ {
+  "id": "2806:51229",
+  "name": "detail/recipes-flower",
+  "kind": "svg"
+ }
+]

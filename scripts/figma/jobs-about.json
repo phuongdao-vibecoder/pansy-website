@@ -1,0 +1,117 @@
+[
+ {
+  "id": "I2899:39471;2774:42624",
+  "name": "about/intro-flower",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "I2899:39471;2899:38986",
+  "name": "about/intro-mascot",
+  "kind": "svg",
+  "opaque": true,
+  "pad": 2
+ },
+ {
+  "id": "2774:44029",
+  "name": "about/map-desktop",
+  "kind": "raster",
+  "pad": 4,
+  "opaque": true
+ },
+ {
+  "id": "406:24534",
+  "name": "about/map-mobile",
+  "kind": "raster",
+  "pad": 4,
+  "opaque": true
+ },
+ {
+  "id": "2673:29206",
+  "name": "about/cert-ggn",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "2673:29229",
+  "name": "about/experience-flower",
+  "kind": "svg",
+  "opaque": true
+ },
+ {
+  "id": "2673:29231",
+  "name": "about/experience-mascot",
+  "kind": "svg",
+  "pad": 2,
+  "opaque": true
+ },
+ {
+  "id": "2673:29346",
+  "name": "about/vision-desktop",
+  "kind": "raster"
+ },
+ {
+  "id": "406:24742",
+  "name": "about/vision-mobile",
+  "kind": "raster"
+ },
+ {
+  "id": "2962:36298",
+  "name": "about/timeline-decor",
+  "kind": "svg",
+  "pad": 100,
+  "hide": [
+   "2962:36306",
+   "2962:36307",
+   "2962:36308",
+   "2962:36309",
+   "2962:36310",
+   "2962:36311",
+   "2962:36312",
+   "2962:36322",
+   "2962:36323",
+   "2962:36555"
+  ],
+  "opaque": true
+ },
+ {
+  "id": "I2962:36311;162:20996",
+  "name": "about/timeline-cambodia-desktop",
+  "kind": "svg"
+ },
+ {
+  "id": "2625:12045",
+  "name": "about/timeline-cambodia-mobile",
+  "kind": "svg",
+  "pad": 2
+ },
+ {
+  "id": "406:24753",
+  "name": "about/timeline-start-mobile",
+  "kind": "svg"
+ },
+ {
+  "id": "406:25104",
+  "name": "about/timeline-end-mobile",
+  "kind": "svg"
+ },
+ {
+  "id": "2774:44522",
+  "name": "about/activities-decor",
+  "kind": "svg",
+  "pad": 20,
+  "hide": [
+   "I2774:44522;2774:44388",
+   "I2774:44522;2774:44389",
+   "I2774:44522;2774:44390",
+   "I2774:44522;2774:44387"
+  ],
+  "opaque": true
+ },
+ {
+  "id": "406:25136",
+  "name": "about/activities-flower-mobile",
+  "kind": "svg",
+  "opaque": true
+ }
+]
